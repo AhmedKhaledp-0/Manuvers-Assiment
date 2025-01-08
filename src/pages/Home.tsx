@@ -52,7 +52,7 @@ function Home() {
               {/* Buttons */}
               <div className="flex items-center gap-3 pt-2">
                 <a
-                  href="https://github.com/yourusername/your-repo"
+                  href="https://github.com/AhmedKhaledp-0/Manuvers-Assiment"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 py-2 bg-purple-600 hover:bg-purple-700 rounded-md flex items-center gap-2 transition-colors text-sm"
